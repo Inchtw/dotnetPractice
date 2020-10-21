@@ -94,3 +94,4 @@
 /Users/ashin/Code/PracticeGit/dotnetPractice/obj/Debug/netcoreapp3.1/Commander.dll
 /Users/ashin/Code/PracticeGit/dotnetPractice/obj/Debug/netcoreapp3.1/Commander.pdb
 /Users/ashin/Code/PracticeGit/dotnetPractice/obj/Debug/netcoreapp3.1/Commander.genruntimeconfig.cache
+/Users/ashin/Code/PracticeGit/dotnetPractice/bin/Debug/netcoreapp3.1/Formula_appsettings.json
